@@ -16,8 +16,7 @@ The application is designed to offer a user-friendly interface with intuitive co
 
 ### Screenshots
 
--   **All Events**
-    ![All Events](./assets/image/EventManagementSQLite.png)
+![All Events](./assets/image/EventManagementSQLite.png)
 
 ## Technologies Used
 
